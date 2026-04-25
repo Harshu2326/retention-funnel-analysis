@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes user behavior across key stages of the product lifecycle using funnel analysis, cohort retention, and event distribution.
+This project analyzes user behavior across key stages of the product lifecycle using **funnel analysis**, **cohort retention**, and **event distribution** to uncover insights that drive product and growth decisions.
 
 ---
 
@@ -24,29 +24,29 @@ This project analyzes user behavior across key stages of the product lifecycle u
 
 ## 🔍 Funnel Analysis
 
-* Tracks user journey from signup → upgrade
+* Tracks user journey from **Signup → Upgrade**
 * Identifies drop-offs at each stage
-* Visualized using funnel chart
+* Visualized using an interactive funnel chart
 
-### Key Insight
+### ✅ Key Insight
 
-Significant drop-off observed before the upgrade stage.
+Significant drop-off observed before the **upgrade stage**, indicating friction in conversion.
 
 ---
 
 ## 🔁 Retention Analysis
 
 * Cohort-based retention grouped by signup week
-* Users bucketed into time intervals:
+* Users segmented into time buckets:
 
   * Day 0
   * Day 1–3
   * Day 4–7
   * Day 8–30
 
-### Key Insight
+### ✅ Key Insight
 
-Retention declines after Day 3, highlighting importance of early engagement.
+Retention declines sharply after **Day 3**, highlighting the importance of early engagement.
 
 ---
 
@@ -54,18 +54,18 @@ Retention declines after Day 3, highlighting importance of early engagement.
 
 * Analyzes frequency of user actions
 
-### Key Insight
+### ✅ Key Insight
 
-Core actions like login and project creation dominate usage, while upgrade events are lower.
+Core actions like **login** and **project creation** dominate usage, while **upgrade events are relatively low**.
 
 ---
 
 ## 🚀 Business Impact
 
-* Improve onboarding experience
-* Increase early-stage engagement
-* Optimize funnel conversion
-* Enhance user retention strategies
+* Improve onboarding experience to reduce early drop-offs
+* Increase engagement during the first 3 days
+* Optimize funnel conversion to boost upgrades
+* Design retention strategies based on user behavior
 
 ---
 
@@ -95,4 +95,4 @@ retention_funnel_projects/
 
 ## 📌 Conclusion
 
-This project demonstrates how funnel and retention analysis can uncover key user behavior patterns and drive data-informed product decisions.
+This project demonstrates how funnel and retention analysis can uncover critical user behavior patterns and enable data-driven decision-making to improve product performance and user growth.
